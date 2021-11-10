@@ -27,8 +27,8 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/meghan-holmes-wy_L8W0zcpI-unsplash.jpg",
-        "image_height": "small",
+        "image_2": "shopify:\/\/shop_images\/smiling-strong-woman-together.jpg",
+        "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "flex-end",
         "show_text_box": true,
