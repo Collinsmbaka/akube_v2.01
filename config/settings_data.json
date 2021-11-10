@@ -10,6 +10,7 @@
     "colors_background_2": "#fdfffc",
     "type_header_font": "montserrat_n4",
     "type_body_font": "roboto_n4",
+    "sold_out_badge_color_scheme": "background-1",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
