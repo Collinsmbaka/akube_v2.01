@@ -1,13 +1,13 @@
 {
   "current": {
     "colors_solid_button_labels": "#FFFFFF",
-    "colors_accent_1": "#274690",
+    "colors_accent_1": "#161a21",
     "gradient_accent_1": "linear-gradient(335deg, rgba(239, 35, 60, 1) 14%, rgba(216, 0, 50, 0.88) 33%, rgba(39, 70, 144, 0.9) 69%)",
-    "colors_accent_2": "#ef233c",
-    "colors_text": "#020202",
-    "colors_outline_button_labels": "#020202",
+    "colors_accent_2": "#d90429",
+    "colors_text": "#161a21",
+    "colors_outline_button_labels": "#161a21",
     "colors_background_1": "#FFFFFF",
-    "colors_background_2": "#fdfffc",
+    "colors_background_2": "#dfe0e2",
     "type_header_font": "montserrat_n4",
     "type_body_font": "roboto_n4",
     "sold_out_badge_color_scheme": "background-1",
