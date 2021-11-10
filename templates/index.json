@@ -104,8 +104,8 @@
         "product": {
           "type": "product",
           "settings": {
-            "product": "",
-            "second_image": false,
+            "product": "carhartt-workwear-long-sleeve-regular-2x-large",
+            "second_image": true,
             "image_padding": false,
             "secondary_background": false
           }
