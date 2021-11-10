@@ -8,8 +8,8 @@
     "colors_outline_button_labels": "#020202",
     "colors_background_1": "#FFFFFF",
     "colors_background_2": "#fdfffc",
-    "type_header_font": "assistant_n4",
-    "type_body_font": "assistant_n4",
+    "type_header_font": "montserrat_n4",
+    "type_body_font": "roboto_n4",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
