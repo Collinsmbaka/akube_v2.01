@@ -11,7 +11,7 @@
     "type_header_font": "montserrat_n4",
     "type_body_font": "roboto_n4",
     "sold_out_badge_color_scheme": "background-1",
-    "favicon": "shopify:\/\/shop_images\/favicon.png",
+    "favicon": "shopify:\/\/shop_images\/favicon_e53149e7-8299-42b3-a88b-fce62b908a84.png",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
@@ -35,6 +35,7 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
+          "logo": "shopify:\/\/shop_images\/logo_transparent_61e8668a-0e05-4baf-9566-98af5fab0918.png",
           "logo_width": 100,
           "logo_position": "middle-left",
           "menu": "main-menu",
