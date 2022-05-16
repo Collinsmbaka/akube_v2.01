@@ -56,9 +56,8 @@
         </p>
       {%- endif -%}
       	{% unless collection.handle contains 'men' %}
-      {% endunless %}
       {% render 'price', product: product_card_product, price_class: '' %}
-    </div>
+      {% endunless %}
   </div>
 
   <div class="card card--product{% if product_card_product.featured_media == nil %} card--text-only card--soft{% endif %}{% if product_card_product.featured_media != nil and show_image_outline %} card--outline{% endif %}" tabindex="-1">
