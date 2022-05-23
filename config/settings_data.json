@@ -11,6 +11,9 @@
     "type_header_font": "montserrat_n4",
     "type_body_font": "roboto_n4",
     "sold_out_badge_color_scheme": "background-1",
+    "social_twitter_link": "https:\/\/twitter.com\/shopify",
+    "social_facebook_link": "https:\/\/facebook.com\/shopify",
+    "social_instagram_link": "http:\/\/instagram.com\/shopify",
     "favicon": "shopify:\/\/shop_images\/favicon_e53149e7-8299-42b3-a88b-fce62b908a84.png",
     "sections": {
       "announcement-bar": {
